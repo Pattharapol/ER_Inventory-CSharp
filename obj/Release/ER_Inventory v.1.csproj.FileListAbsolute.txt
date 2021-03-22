@@ -1,0 +1,100 @@
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\ER_Inventory v.1.exe.config
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\ER_Inventory v.1.exe
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\ER_Inventory v.1.pdb
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\DGV Printer.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Google.Protobuf.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\itextsharp.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\log4net.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.ReportViewer.Design.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\MySql.Data.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Renci.SshNet.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Buffers.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Memory.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Zstandard.Net.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\EnvDTE.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\EnvDTE80.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\stdole.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\VSLangProj.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\VSLangProj80.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.MSXML.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\VSLangProj2.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Google.Protobuf.pdb
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Google.Protobuf.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\itextsharp.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\log4net.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\MySql.Data.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Renci.SshNet.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Buffers.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Memory.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Release\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory v.1.exe.config
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmStockInReport.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmUserAccount.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmBrandList.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmChangePass.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmFormulation.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmGeneric.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmMain.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmCategoryList.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmPrintSaleReport.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmProductList.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmRecords.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmSales.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmSalesReport.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmSecurity.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmStockIn.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmUnit.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.frmUser.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory_v._1.Properties.Resources.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory v.1.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory v.1.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory v.1.csproj.CopyComplete
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory v.1.exe
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Release\ER_Inventory v.1.pdb

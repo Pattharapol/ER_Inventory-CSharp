@@ -1,0 +1,213 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ER_Inventory v.1.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ER_Inventory v.1.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ER_Inventory v.1.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\MySql.Data.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Renci.SshNet.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Buffers.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Memory.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Zstandard.Net.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\MySql.Data.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Renci.SshNet.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Buffers.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Memory.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmBrandList.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmFormulation.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmGeneric.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmMain.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmCategoryList.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmProductList.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmUnit.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmStockIn.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\log4net.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\log4net.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmSales.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmRecords.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ER_Inventory v.1.exe.config
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ER_Inventory v.1.exe
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ER_Inventory v.1.pdb
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Google.Protobuf.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\itextsharp.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\log4net.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\MySql.Data.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Renci.SshNet.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Buffers.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Memory.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Zstandard.Net.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\EnvDTE.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\EnvDTE80.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\stdole.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\VSLangProj.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\VSLangProj80.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\VSLangProj2.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Google.Protobuf.pdb
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Google.Protobuf.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\itextsharp.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\log4net.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\MySql.Data.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Renci.SshNet.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Buffers.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Memory.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.exe.config
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmBrandList.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmChangePass.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmFormulation.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmGeneric.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmMain.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmCategoryList.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmPrintSaleReport.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmProductList.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmRecords.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmSales.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmSalesReport.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmSecurity.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmStockIn.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmUnit.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmUser.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.Properties.Resources.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.csproj.CopyComplete
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.exe
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.pdb
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmStockInReport.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory_v._1.frmUserAccount.resources
+C:\Users\IT\source\repos\ER_Inventory v.1\ER_Inventory v.1\obj\Debug\ER_Inventory v.1.csprojAssemblyReference.cache
